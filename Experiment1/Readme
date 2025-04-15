@@ -1,1 +1,5 @@
 Code use for analysing data from experiment 1
+
+The script preprocessing works on the raw data.
+The group anaylsis script includes all the anaylsis done on the preprocessed data.
+The figure script plots the raw figures for the data included in the paper. The different panels of the figures were organized in Corel Draw
