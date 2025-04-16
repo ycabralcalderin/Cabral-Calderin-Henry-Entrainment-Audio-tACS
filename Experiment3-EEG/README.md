@@ -1,1 +1,16 @@
 # Cabral-Calderin-Henry-Entrainment-Audio-tACS
+Code use for analysing data from experiment 3, EEG data
+
+The script preprocessing works on the raw data.
+The group anaylsis script includes all the anaylses done on the preprocessed data.
+The figure script plots the raw figures for the data included in the paper. The different panels of the figures were organized in Corel Draw
+
+The script calls different functions from Matlab toolboxes: Image Processing Toolbox, Statistical and Machine Learning Toolbox, Curve Fitting Toolbox, Signal Processing toolbox, Mapping Toolbox,
+Deep Learning Toolbox, Symbolic Math Toolbox, Fuzzy Logic Toolbox, Bioinformatic Toolbox, Computer Vision Toolbox and Econometrics Toolbox.
+
+Additional external toolboxes and functions needed are: 
+
+- Fieltrip (tested on version 20201128) 
+- distributionPlot (Jonas (2025). Violin Plots for plotting multiple distributions (distributionPlot.m) (https://www.mathworks.com/matlabcentral/fileexchange/23661-violin-plots-for-plotting-multiple-distributions-distributionplot-m), MATLAB Central File Exchange)
+- Circular statistics toolbox (Philipp Berens (2025). Circular Statistics Toolbox (Directional Statistics) (https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics), MATLAB Central File Exchange) 
+- anova_rm (Arash Salarian (2025). Repeated Measures ANOVA (https://www.mathworks.com/matlabcentral/fileexchange/22088-repeated-measures-anova), MATLAB Central File Exchange)
