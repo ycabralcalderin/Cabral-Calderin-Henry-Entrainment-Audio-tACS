@@ -4,7 +4,8 @@ The script preprocessing works on the raw data.
 The group anaylsis script includes all the anaylsis done on the preprocessed data.
 The figure script plots the raw figures for the data included in the paper. The different panels of the figures were organized in Corel Draw
 
-The script calls different functions from Matlab toolboxes: Image Processing Toolbox, Statistical and Machine Learning Toolbox, Wavelet Toolbox and Curve Fitting Toolbox.
+The script calls different functions from Matlab toolboxes: Image Processing Toolbox, Statistical and Machine Learning Toolbox, Wavelet Toolbox, Curve Fitting Toolbox, System Identification Toolbox, Signal Processing toolbox, Mapping Toolbox,
+Deep Learning Toolbox, Symbolic Math Toolbox, Fuzzy Logic Toolbox, Bioinformatic Toolbox, Computer Vision Toolbox and Econometrics Toolbox.
 
 Additional external toolboxes and functions needed are: 
 
